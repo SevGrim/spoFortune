@@ -6,23 +6,24 @@
   
     <h1>О нас</h1>
     <hr/>
-    <p class="title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-  
+    <p class="title">Мы студенческий педагогический отряд г.Севастополя "Фортуна", образованный 12.05.2015 года.</br>Почему именно к нам?</p>
+    <p> </p>
       <div class="column-one">
   
         <div class="circle-one"></div>
     
-          <h2>RESPONSIVE</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+          <h2>Официальное трудоустройство</h2>
+          <p>Сколько вы знаете детских лагерей в крыму?</br>А если мы скажем, что с нами вы попадешь в лучший?</p>
     
       </div>
+
   
       <div class="column-two">
   
         <div class="circle-two"></div>
     
-          <h2>MINIMALIST</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+          <h2>Прохождение школы вожатых</h2>
+          <p>Если ты решил стать вожатым, то самое время изучить/вспомнить как работать с детьми. </p>
     
       </div>
   
@@ -31,11 +32,33 @@
   
         <div class="circle-three"></div>
     
-        <h2>FREEBIES</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+        <h2>Возможность путешествовать</h2>
+        <p>Хотелось ли тебе побывать на Байкале или на берегу Черного моря?</br>А уже в 2016 наши бойцы отправятся в детский лагерь на Байкале.</p>
+    
+    </div> 
+
+    <div class="column-three">
+  
+        <div class="circle-three"></div>
+    
+        <h2>Крутая команда</h2>
+        <p>У тебя нет друзей или тебе захотелось познакомиться с новыми?</br>Мы встретим тебя с радостными объятиям!</p>
     
     </div>  
+     <div class="column-three">
+  
+        <div class="circle-three"></div>
     
+        <h2>Получи опыт еще до старта</h2>
+        <p>Бойцы нашего отряда не теоретики. Мы работали с детьми от Севастополя, до Санкт-Петербурга, от Евпатории, до республики Башкортостан.</br>Поверь нам есть что рассказать!</p>
+    </div>   
+     <div class="column-three">
+  
+        <div class="circle-three"></div>
+    
+        <h2>Море эмоций</h2>
+        <p>Подумал, что мы заняты только работой?</br>А вот и нет, во время учебного года у нас происходит огромное количество крутых мероприятий, каждое которое ты запомнишь на всегда!</p>
+    </div>      
   </div>
   
   </section>
