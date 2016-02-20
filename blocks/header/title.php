@@ -25,10 +25,9 @@
 
 <body>
 
-<!--[if lt IE 9]>
+
 <div class="preloader" id="preloader">
     <div class="item">
       <img src="img/loading.gif">
     </div>
 </div>
-<![endif]-->

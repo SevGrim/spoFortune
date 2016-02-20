@@ -1,22 +1,10 @@
-/* Thomsoon.com - OnePage CSS Responsive theme
--- version 1.0
--- Copyright (c) 2014 Thomsoon.com
--- licensed under the MIT
---
--- http://www.thomsoon.com/
---
-*/
+
 
 /* Font Google - strong reaload time */
 /*@import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700,900&subset=latin,latin-ext);
 */
 @import url(https://fonts.googleapis.com/css?family=Noto+Serif&subset=latin,cyrillic);
 
-/*
- * Theme Name: Onepage
- * Author: Thomsoon
- * Created: 14/11/2014
- */
 
 
 .preloader{
@@ -393,10 +381,10 @@ h1 span{
 .about-us h2{
   text-align:center;
   margin-top:50px;
-  font-size:26px;
+  font-size:20px;
   color:black;
   line-height:1.2;
-  letter-spacing:6px;
+  letter-spacing:3px;
   width:100%;
   position:relative;
   font-weight:400;
@@ -427,7 +415,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/responsive.png) white no-repeat center center;
+  background: url(../img/icons/work.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -458,7 +446,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/minimalist.png) white no-repeat center center;
+  background: url(../img/icons/school.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -489,7 +477,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/free.png) white no-repeat center center;
+  background: url(../img/icons/travel.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -504,6 +492,161 @@ h1 span{
 
 .about-us .column-three .circle-three:hover{ 
   border:2px solid #ada074;
+}
+
+.about-us .column-four{ 
+  margin-top:40px;
+  width:300px;
+  float:left;
+  margin-bottom:70px;
+  height:350px;
+}
+
+.about-us .column-four .circle-four{ 
+  height: 100px;
+  position:relative;
+  margin:0 auto;
+  border:2px solid #f0f0f0;
+  background: url(../img/icons/command.png) white no-repeat center center;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius: 100px;
+  width: 100px;
+  cursor:pointer;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.about-us .column-four .circle-four:hover{ 
+  border:2px solid #ada074;
+}
+
+.about-us .column-five{ 
+  margin-top:40px;
+  width:300px;
+  float:left;
+  margin-bottom:70px;
+  height:350px;
+}
+
+.about-us .column-five .circle-five{ 
+  height: 100px;
+  position:relative;
+  margin:0 auto;
+  border:2px solid #f0f0f0;
+  background: url(../img/icons/test.png) white no-repeat center center;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius: 100px;
+  width: 100px;
+  cursor:pointer;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.about-us .column-five .circle-five:hover{ 
+  border:2px solid #ada074;
+}
+
+.about-us .column-six{ 
+  margin-top:40px;
+  width:300px;
+  float:left;
+  margin-bottom:70px;
+  height:350px;
+}
+
+.about-us .column-six .circle-six{ 
+  height: 100px;
+  position:relative;
+  margin:0 auto;
+  border:2px solid #f0f0f0;
+  background: url(../img/icons/sea.png) white no-repeat center center;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius: 100px;
+  width: 100px;
+  cursor:pointer;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.about-us .column-six .circle-six:hover{ 
+  border:2px solid #ada074;
+}
+/* Win */
+/* Portfolio */
+
+
+.win{
+  position:relative;
+  width:100%;
+  background:#444444;
+  z-index:10;
+
+}
+
+.win .win-margin{
+  position:relative;
+  width:900px;
+  overflow:hidden;
+  margin:0 auto;
+}
+
+.win .win-margin .read-more{
+  width:183px;
+  height:47px;
+  position:relative;
+  margin:50px auto 100px;
+  line-height:47px;
+  border:1px solid #f3f3f3;
+  text-transform:uppercase;
+  text-align:center;
+  color:#f3f3f3;
+  cursor:pointer;
+  font-size:14px;
+  background:none;
+  -webkit-transition: all 0.6s ease-in;
+  -moz-transition: all 0.6s ease-in;
+  -ms-transition: all 0.6s ease-in;
+  -o-transition: all 0.6s ease-in;
+  transition: all 0.6s ease-in;
+  letter-spacing:1px;
+}
+
+.win .win-margin .read-more:hover{
+  background:#ada074;
+  color:white;
+  border:1px solid #ada074;
+}
+
+.win .win-margin h1{
+  font-size:34px;
+  color:#f3f3f3;
+  text-align:center;
+  margin-top:120px;
+  letter-spacing:6px;
+  font-weight:bold;
+  text-transform:uppercase;
+  line-height:1.2;
+}
+
+.win .win-margin hr{
+  color: black;
+  margin-top:30px;
+  background-color: #f3f3f3;
+  height: 1px;
+  width:106px;
+  border:0;
 }
 
 

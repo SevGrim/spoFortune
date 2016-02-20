@@ -7,6 +7,7 @@
 
     //Body
     require_once "blocks/body/aboutUs.php";
+    require_once "blocks/body/win.php";
     require_once "blocks/body/foto.php";
     require_once "blocks/body/partners.php";
     require_once "blocks/body/contact.php";

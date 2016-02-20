@@ -37,24 +37,24 @@
     
     </div> 
 
-    <div class="column-three">
+    <div class="column-four">
   
-        <div class="circle-three"></div>
+        <div class="circle-four"></div>
     
         <h2>Крутая команда</h2>
         <p>У тебя нет друзей или тебе захотелось познакомиться с новыми?</br>Мы встретим тебя с радостными объятиям!</p>
     
     </div>  
-     <div class="column-three">
+     <div class="column-five">
   
-        <div class="circle-three"></div>
+        <div class="circle-five"></div>
     
         <h2>Получи опыт еще до старта</h2>
         <p>Бойцы нашего отряда не теоретики. Мы работали с детьми от Севастополя, до Санкт-Петербурга, от Евпатории, до республики Башкортостан.</br>Поверь нам есть что рассказать!</p>
     </div>   
-     <div class="column-three">
+     <div class="column-six">
   
-        <div class="circle-three"></div>
+        <div class="circle-six"></div>
     
         <h2>Море эмоций</h2>
         <p>Подумал, что мы заняты только работой?</br>А вот и нет, во время учебного года у нас происходит огромное количество крутых мероприятий, каждое которое ты запомнишь на всегда!</p>
